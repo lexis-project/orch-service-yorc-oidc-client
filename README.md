@@ -1,5 +1,10 @@
-# yorcoidc
-OpenID connect client used by Yorc LEXIS plugins
+# orch-service-yorc-oidc-client
+
+OpenID connect client used by Yorc LEXIS plugins.
+
+## Acknowledgement
+
+This code repository is a result / contains results of the LEXIS project. The project has received funding from the European Union’s Horizon 2020 Research and Innovation programme (2014-2020) under grant agreement No. 825532.
 
 ## Usage
 
