@@ -1,5 +1,7 @@
 # orch-service-yorc-oidc-client
 
+<a href="https://doi.org/10.5281/zenodo.6080476"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6080476.svg" alt="DOI"></a>
+
 OpenID connect client used by Yorc LEXIS plugins.
 
 ## Acknowledgement
